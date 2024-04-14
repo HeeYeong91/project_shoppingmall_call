@@ -30,7 +30,7 @@ MVC 패턴 연습을 위한 팀 프로젝트로 Model, View, Controller로 구�
 <br /><br />
 
 데이터를 DB에서 저장 및 관리 <br />
-build / classes / config / jdbc.properties 에서 username에 SQLDeveloper 사용자 이름, password에 SQLDeveloper 비밀번호 입력 <br />
+src / main / java / config / jdbc.properties 에서 username에 SQLDeveloper 사용자 이름, password에 SQLDeveloper 비밀번호 입력 <br />
 ![jdbc설정파일](https://github.com/HeeYeong91/project_shoppingmall_call/assets/139057065/19c27383-4c2a-4cb5-bbc5-a5806722dc51) <br />
 <br /><br />
 
